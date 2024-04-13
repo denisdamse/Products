@@ -1,4 +1,4 @@
-public class Warehouse {
-    public static int numberOfProducts=0;
+public class Warehouse 
+{
     
 }
